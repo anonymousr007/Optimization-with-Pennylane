@@ -24,4 +24,8 @@
   - [Variational Quantum Thermalizer](https://pennylane.ai/qml/demos/tutorial_vqt.html)
   - [Variational Quantum Linear Solver](https://pennylane.ai/qml/demos/tutorial_vqls.html)
   - [Coherent Variational Quantum Linear Solver](https://pennylane.ai/qml/demos/tutorial_coherent_vqls.html)
-  - [Optimizing a quantum optical neural network](https://pennylane.ai/qml/demos/qonn.html)
+  - [Optimizing a quantum optical neural network](https://pennylane.ai/qml/demos/qonn.html
+  - [3-qubit Ising model in PyTorch](https://pennylane.ai/qml/demos/tutorial_isingmodel_PyTorch.html)
+  - [QAOA for MaxCut](https://pennylane.ai/qml/demos/tutorial_qaoa_maxcut.html)
+  - [Quantum natural SPSA optimizer](https://pennylane.ai/qml/demos/qnspsa.html)
+  - [Differentiating quantum error mitigation transforms](https://pennylane.ai/qml/demos/tutorial_diffable-mitigation.html)
